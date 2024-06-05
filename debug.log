@@ -1,0 +1,4 @@
+[1121/082949.591:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Najmi\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\84440e99-4746-42d3-8bc8-84d2ac5fc9b2: The system cannot find the path specified. (0x3)
+[1121/082949.743:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1122/190012.724:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1124/171231.817:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
